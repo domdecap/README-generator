@@ -9,16 +9,15 @@
   5. [Tests](#tests) 
   6. [Questions](#questions)
   7. [License](#license)
-  8. [Email](#email) 
-
+  
   ## Description
   A simple README generator
 
   ## Installation
-  N/A
+  Prerequisites: [NodeJs](https://nodejs.org/en) ```v20.12.2```1. Clone this repo to your local machine.2. Open in code editior (I used VS Code).3. Right click on 'Develop' folder and open in integrated terminal.4. Run ```npm i``` to install dependencies.
 
   ## Usage
-  N/A
+  After following installation instructions, run ```node index.js``` in the integrated terminal to launch README Generator questions. After finishing answering, you'll new README file will export to the 'utils' folder.
 
   ## Collaborators
   N/A

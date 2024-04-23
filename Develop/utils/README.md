@@ -1,5 +1,5 @@
-# sad
-  
+# README Generator
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Table of Contents
 
   1. [Description](#description) 
@@ -12,27 +12,27 @@
   8. [Email](#email) 
 
   ## Description
-  asdsa
+  A simple README generator
 
   ## Installation
-  asdds
+  N/A
 
   ## Usage
-  asdsad
+  N/A
 
   ## Collaborators
-  asdas
+  N/A
 
   ## Tests
   undefined
 
   ## Questions
-  If you have any questions, I can be contacted at asd by email
-  or you can view my Github at asd
+  If you have any questions, I can be contacted at myemail@email.com by email
+  or you can view my Github at UserName
 
   ## License
-  
-  
+  https://opensource.org/licenses/MIT
+  Licensed by MIT. All rights reserved. See license in repo.
 
  
 

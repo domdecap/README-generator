@@ -1,5 +1,5 @@
-# Calc
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# sad
+  
   ## Table of Contents
 
   1. [Description](#description) 
@@ -12,27 +12,27 @@
   8. [Email](#email) 
 
   ## Description
-  It's my calc!
+  asdsa
 
   ## Installation
-  npm i
+  asdds
 
   ## Usage
-  Don't!
+  asdsad
 
   ## Collaborators
-  Me, myself, and I
+  asdas
 
   ## Tests
   undefined
 
   ## Questions
-  If you have any questions, I can be contacted at dominic.decapite@gmail.com by email
-  or you can view my Github at domdecap
+  If you have any questions, I can be contacted at asd by email
+  or you can view my Github at asd
 
   ## License
-  https://opensource.org/licenses/MIT
-  Licensed by MIT. All rights reserved. See license in repo.
+  
+  
 
  
 
